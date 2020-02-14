@@ -1,4 +1,4 @@
-# baltimore-city-vs-county-income-and-grad-rates
+# Baltimore City versus County Income and Graduation Rates
 
 Although they share a name and are often conflated by out-of-towners, Baltimore City and Baltimore County are very distinct regions of Maryland. These differences are much more apparent when comparing the household income and graduation rates of adults who grew up in the county as opposed to the city. I'm personally interested in this comparison because, growing up in Baltimore County, I was very aware, like all Baltimore residents, of the inter-regional differences between the two areas (often a point of contention and source of tension between them). I was curious to see how these differences played out in the Opportunity Atlas and wanted to visualize some of the socioeconomic differences between county and city. However, this is by no means an extensive survey of said differences, merely a jumping off point for looking at how parent income percentiles and hometown (or in this case, county) impact select variables.
 
